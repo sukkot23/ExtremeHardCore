@@ -21,7 +21,7 @@ Twitch Streamer DongWooDong's Minecraft Extreme Hard Core Contents Project.
 </br>
 
 ##### Protocolib와 DiscordJDA 라이브러리를 사용하였습니다.
-> [Protocollib](https://github.com/dmulloy2/ProtocolLib/)
+> [Protocollib](https://github.com/dmulloy2/ProtocolLib/)   
 > [DiscordJDA](https://github.com/DV8FromTheWorld/JDA)
 </br>
 
