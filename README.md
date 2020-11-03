@@ -9,6 +9,10 @@ Twitch Streamer DongWooDong's Minecraft Extreme Hard Core Contents Project.
 **트위치 스트리머 동우동님의 극 하드코어 컨텐츠 프로젝트**   
    > [동우동 트위치](https://www.twitch.tv/dongwoodong)
 </br>   
+```
+ 시즌1 제작기간 : 2020.02.08 ~ 2020.04.13
+ 시즌2 제작기간 : 2020.10.08 ~ 2020.11.04
+```
 </br>
 
 ## Thumbnail
