@@ -20,7 +20,7 @@ Twitch Streamer DongWooDong's Minecraft Extreme Hard Core Contents Project.
 ![2020-07-26_14 18 56](https://user-images.githubusercontent.com/56511728/98035163-688f2180-1e5b-11eb-9abc-0f18b1088219.png)
 </br>
 
-##### Protocolib와 DiscordJDA 라이브러리를 사용하였습니다.
+##### 본 플러그인 제작에 Protocolib와 DiscordJDA 라이브러리를 사용하였습니다.
 > [Protocollib](https://github.com/dmulloy2/ProtocolLib/)   
 > [DiscordJDA](https://github.com/DV8FromTheWorld/JDA)
 </br>
