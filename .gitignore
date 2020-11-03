@@ -1,0 +1,22 @@
+# Project exclude paths
+/R-DiscordBeco/.gradle/
+/R-DiscordBeco/build/
+/R-DiscordBeco/build/classes/java/main/
+/R-ExtremeHardCore/.gradle/
+/R-ExtremeHardCore/build/
+/R-ExtremeHardCore/build/classes/java/main/
+/R-HardCoreRule/.gradle/
+/R-HardCoreRule/build/
+/R-HardCoreRule/build/classes/java/main/
+/R-PenaltySystem/.gradle/
+/R-PenaltySystem/build/
+/R-PenaltySystem/build/classes/java/main/
+/R-RandomTeam/.gradle/
+/R-RandomTeam/build/
+/R-RandomTeam/build/classes/java/main/
+/R-ServerStatistics/.gradle/
+/R-ServerStatistics/build/
+/R-ServerStatistics/build/classes/java/main/
+/R-TheEnd/.gradle/
+/R-TheEnd/build/
+/R-TheEnd/build/classes/java/main/
