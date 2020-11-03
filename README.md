@@ -9,7 +9,8 @@ Twitch Streamer DongWooDong's Minecraft Extreme Hard Core Contents Project.
 **트위치 스트리머 동우동님의 극 하드코어 컨텐츠 프로젝트**   
    > [동우동 트위치](https://www.twitch.tv/dongwoodong)
 </br>   
-</br>   
+</br>
+
 ## Thumbnail
 ![2020-07-26_14 18 56](https://user-images.githubusercontent.com/56511728/98035163-688f2180-1e5b-11eb-9abc-0f18b1088219.png)
    
