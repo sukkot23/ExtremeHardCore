@@ -11,7 +11,7 @@ Twitch Streamer DongWooDong's Minecraft Extreme Hard Core Contents Project.
 </br>   
 </br>   
 ## Thumbnail
-[![2020-07-26_14 18 56](https://user-images.githubusercontent.com/56511728/98031172-7a6dc600-1e55-11eb-833b-5f027344f62e.png)](https://www.youtube.com/channel/UCw7QfHnsrV_a46I4SK3MGeA)   
+![2020-07-26_14 18 56](https://user-images.githubusercontent.com/56511728/98035163-688f2180-1e5b-11eb-9abc-0f18b1088219.png)
    
 ### 1. R-ExtremeHardCore
   ##### 극하드코어 컨텐츠 메인 플러그인 입니다.
