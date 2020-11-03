@@ -1,0 +1,9 @@
+#
+# Extreme HardCore Config
+#
+
+tryCount : 0
+life : 1
+resetTime : 60
+streamName : sukkot_
+staffOnly : false
