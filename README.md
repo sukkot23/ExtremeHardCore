@@ -9,4 +9,4 @@ Twitch Streamer DongWooDong's Minecraft Extreme Hard Core Contents Project.
 
 
 ## Thumbnail
-![2020-07-26_14 18 56](https://user-images.githubusercontent.com/56511728/98028569-a424ee00-1e51-11eb-83c0-5e6d814adbba.png)
+<img src="https://user-images.githubusercontent.com/56511728/98028569-a424ee00-1e51-11eb-83c0-5e6d814adbba.png" height="50%", alt="thumbnail"></img><br>
