@@ -1,0 +1,42 @@
+plugins {
+    id 'java'
+    id 'kr.entree.spigradle' version '2.2.3'
+    id "com.github.johnrengelman.shadow" version "6.1.0"
+}
+
+def plVersion = '4.0.1'
+
+group 'com.flora.discord'
+version plVersion
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compileOnly spigot('1.15.2')
+    compile ('net.dv8tion:JDA:4.2.0_209') {
+        exclude module: 'opus-java'
+    }
+
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
+
+spigot {
+    name = 'R-DiscordBeco'
+    version = plVersion
+    apiVersion = 1.15
+    authors = ['sukkot']
+    depends = ['R-ExtremeHardCore']
+}
+
+jar {
+    finalizedBy shadowJar
+}
+
+shadowJar {
+    mergeServiceFiles()
+}
