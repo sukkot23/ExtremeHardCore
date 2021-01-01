@@ -1,5 +1,5 @@
 
-[![](https://jitpack.io/v/sukkot23/ExtremeHardCore.svg)](https://jitpack.io/#sukkot23/ExtremeHardCore)   
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsukkot23%2FExtremeHardCore&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=View&edge_flat=false)](https://hits.seeyoufarm.com) [![](https://jitpack.io/v/sukkot23/ExtremeHardCore.svg)](https://jitpack.io/#sukkot23/ExtremeHardCore)   
 
 
 
@@ -13,6 +13,8 @@ Twitch Streamer DongWooDong's Minecraft Extreme Hard Core Contents Project.
 ```
  시즌1 제작기간 : 2020.02.08 ~ 2020.04.13
  시즌2 제작기간 : 2020.10.08 ~ 2020.11.04
+ 
+ * 컨텐츠 전용 플러그인으로 재배포, 가공 및 수정, 플러그인을 이용한 컨텐츠 재사용을 
 ```
 </br>
 
